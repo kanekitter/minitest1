@@ -70,8 +70,9 @@
       }
     </style>
   </head>
-  <body>
-    <h1>LIFFテストページ</h1>
-    <p>LIFFの作成を色々と試すためのページです。</p>
-  </body>
+<body>
+   <img src="logo.png">
+   <h1>LIFFテストページ</h1>
+   <p>LIFFの作成を色々と試すためのページです。</p>
+ </body>
 </html>
